@@ -1,0 +1,232 @@
+{
+  "language": [
+    {
+      "id": "1",
+      "lang": "En" 
+    },
+    {
+      "id": "2",
+      "lang": "Fa"
+    }
+  ],
+  "selected": [
+    {
+      "id": "1ab7",
+      "selectedLanguage": "Fa"
+    },
+    {
+      "id": "3855",
+      "selectedLanguage": "En"
+    }
+  ],
+  "addtocart": [],
+  "products": [
+    {
+      "id": "1",
+      "name": "Rose Elegance",
+      "brand": "Floral Essence",
+      "price": 50.99,
+      "new": true,
+      "multiCurrency": false,
+      "image": "https://www.perfumerh.com/cdn/shop/files/PHHandblownBottleRAINWOODFRONTHighRes_532e2cfc-186a-4b12-bbdf-d5c3ef2926f7.jpg?v=1723590429&width=480"
+    },
+    {
+      "id": "2",
+      "name": "Ocean Breeze",
+      "brand": "Aqua Pure",
+      "price": 65.75,
+      "new": false,
+      "multiCurrency": true,
+      "image": "https://www.perfumerh.com/cdn/shop/files/PHHandblownCandleXL-DANDELIONcopy_804e250f-e494-479b-a487-3a475592122a.jpg?v=1729867013&width=480"
+    },
+    {
+      "id": "3",
+      "name": "Midnight Mystique",
+      "brand": "Noir Glamour",
+      "price": 82.5,
+      "new": true,
+      "multiCurrency": true,
+      "image": "https://www.perfumerh.com/cdn/shop/files/phsoapdish4_b1d68deb-844c-4eaa-b8c6-31ec21e2d938.jpg?v=1729867188&width=480"
+    },
+    {
+      "id": "4",
+      "name": "Citrus Splash",
+      "brand": "Fresh Glow",
+      "price": 40.3,
+      "new": false,
+      "multiCurrency": false,
+      "image": "https://www.perfumerh.com/cdn/shop/files/PHHandblownBottleSMOKEFRONT_32a24247-6e94-4634-9035-2238808c15f2.jpg?v=1723590501&width=480"
+    },
+    {
+      "id": "5",
+      "name": "Amber Luxury",
+      "brand": "Elegant Aromas",
+      "price": 120,
+      "new": true,
+      "multiCurrency": false,
+      "image": "https://www.perfumerh.com/cdn/shop/files/FRAG_G11816862_REFILL.jpg?v=1689023976&width=480"
+    },
+    {
+      "id": "6",
+      "name": "Lavender Mist",
+      "brand": "Herbal Haven",
+      "price": 47.99,
+      "new": false,
+      "multiCurrency": true,
+      "image": "https://www.perfumerh.com/cdn/shop/files/perfumer-…1bf-b243-2b7dd46116f4.webp?v=1709144746&width=480"
+    },
+    {
+      "id": "7",
+      "name": "Vanilla Dream",
+      "brand": "Sweet Scents",
+      "price": 58.25,
+      "new": true,
+      "multiCurrency": true,
+      "image": "https://www.perfumerh.com/cdn/shop/files/perfumer-…1bf-b243-2b7dd46116f4.webp?v=1709144746&width=480"
+    },
+    {
+      "id": "8",
+      "name": "Spicy Oud",
+      "brand": "Oriental Spice",
+      "price": 95.5,
+      "new": false,
+      "multiCurrency": true,
+      "image": "https://www.perfumerh.com/cdn/shop/files/PHHandblownBottleRAINWOODFRONTHighRes_532e2cfc-186a-4b12-bbdf-d5c3ef2926f7.jpg?v=1723590429&width=480"
+    },
+    {
+      "id": "9",
+      "name": "Cedar Woods",
+      "brand": "Nature's Touch",
+      "price": 89.3,
+      "new": true,
+      "multiCurrency": false,
+      "image": "https://www.perfumerh.com/cdn/shop/files/FRAG_G11816862_REFILL.jpg?v=1689023976&width=480"
+    },
+    {
+      "id": "10",
+      "name": "Fresh Linen",
+      "brand": "Pure Scents",
+      "price": 35.4,
+      "new": false,
+      "multiCurrency": false,
+      "image": "https://www.perfumerh.com/cdn/shop/files/PHHandblownBottleRAINWOODFRONTHighRes_532e2cfc-186a-4b12-bbdf-d5c3ef2926f7.jpg?v=1723590429&width=480"
+    },
+    {
+      "id": "11",
+      "name": "Golden Musk",
+      "brand": "Luxor Scents",
+      "price": 150,
+      "new": true,
+      "multiCurrency": true,
+      "image": "https://www.perfumerh.com/cdn/shop/files/FRAG_G11916591_REFILL.jpg?v=1689026627&width=480"
+    },
+    {
+      "id": "12",
+      "name": "Coconut Bliss",
+      "brand": "Tropical Vibes",
+      "price": 60.99,
+      "new": true,
+      "multiCurrency": false,
+      "image": "https://www.perfumerh.com/cdn/shop/files/FEASTTea.jpg?v=1729108423&width=480"
+    },
+    {
+      "id": "13",
+      "name": "Orchid Harmony",
+      "brand": "Exotic Bloom",
+      "price": 78.3,
+      "new": false,
+      "multiCurrency": true,
+      "image": "https://www.perfumerh.com/cdn/shop/files/phsoapdish4_b1d68deb-844c-4eaa-b8c6-31ec21e2d938.jpg?v=1729867188&width=480"
+    },
+    {
+      "id": "14",
+      "name": "Leather Essence",
+      "brand": "Rugged Charm",
+      "price": 105.75,
+      "new": true,
+      "multiCurrency": false,
+      "image": "https://www.perfumerh.com/cdn/shop/files/PHHandblownBottleINKFRONTHighRes_52180da4-acd5-4d9c-b063-116431677aeb.jpg?v=1723589411&width=480"
+    },
+    {
+      "id": "15",
+      "name": "Berry Delight",
+      "brand": "Fruit Fusion",
+      "price": 45.2,
+      "new": false,
+      "multiCurrency": true,
+      "image": "https://www.perfumerh.com/cdn/shop/files/PHHandblownCandleXL-DANDELIONcopy_804e250f-e494-479b-a487-3a475592122a.jpg?v=1729867013&width=480"
+    },
+    {
+      "id": "16",
+      "name": "Mystic Amber",
+      "brand": "Ancient Aura",
+      "price": 130.4,
+      "new": true,
+      "multiCurrency": true,
+      "image": "https://www.perfumerh.com/cdn/shop/files/PHHandblownCandleAmberFRONT_2f676105-a748-4dc9-be23-73ff87486b50_jpg.webp?v=1729866913&width=480"
+    },
+    {
+      "id": "17",
+      "name": "Peony Petals",
+      "brand": "Blooming Scents",
+      "price": 69.5,
+      "new": false,
+      "multiCurrency": false,
+      "image": "https://www.perfumerh.com/cdn/shop/files/FEASTTea.jpg?v=1729108423&width=480"
+    },
+    {
+      "id": "18",
+      "name": "Eucalyptus Mint",
+      "brand": "Cool Refresh",
+      "price": 42,
+      "new": true,
+      "multiCurrency": false,
+      "image": "https://www.perfumerh.com/cdn/shop/files/phsoapdish4_b1d68deb-844c-4eaa-b8c6-31ec21e2d938.jpg?v=1729867188&width=480"
+    },
+    {
+      "id": "19",
+      "name": "Cinnamon Twist",
+      "brand": "Spice House",
+      "price": 75.3,
+      "new": true,
+      "multiCurrency": true,
+      "image": "https://www.perfumerh.com/cdn/shop/files/FEASTTea.jpg?v=1729108423&width=480"
+    },
+    {
+      "id": "20",
+      "name": "Jasmine Nights",
+      "brand": "Mystic Blossom",
+      "price": 68.2,
+      "new": false,
+      "multiCurrency": true,
+      "image": "https://www.perfumerh.com/cdn/shop/files/feastsoap1.jpg?v=1729108348&width=480"
+    },
+    {
+      "id": "21",
+      "name": "Tea Garden",
+      "brand": "Green Essence",
+      "price": 54.1,
+      "new": false,
+      "multiCurrency": false,
+      "image": "https://www.perfumerh.com/cdn/shop/files/gold-incense_8ec6c7bd-2950-4bd1-b71a-94ecb4c8d5f8.jpg?v=1729108140&width=480"
+    },
+    {
+      "id": "22",
+      "name": "Sandalwood Charm",
+      "brand": "Woodland Scents",
+      "price": 85.99,
+      "new": true,
+      "multiCurrency": false,
+      "image": "https://www.perfumerh.com/cdn/shop/files/feastsoap1.jpg?v=1729108348&width=480"
+    },
+    {
+      "id": "23",
+      "name": "Cherry Blossom",
+      "brand": "Pink Bloom",
+      "price": 63.8,
+      "new": false,
+      "multiCurrency": true,
+      "image": "https://www.perfumerh.com/cdn/shop/files/INKRewritten50mlBottleFRONT.jpg?crop=center&height=3431&v=1729121232&width=3431"
+    }
+  ]
+}
